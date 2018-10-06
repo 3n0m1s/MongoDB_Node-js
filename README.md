@@ -2,4 +2,4 @@
 
 Connection and serialization
 
--Before of use, read how to "Producing a CLOUD" in Ubuntu 16.04 repository to create your own personal cloud droplet
+-Before of use, read how to "Producing a CLOUD" in Ubuntu 16.04 repository to create your own personal droplet
